@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<blockquote align="right">
+"My code? If you want it, you can use it! Go find it!  
+I left everything Golang has to offer in this repository."
+<br>
+<strong>— Gopher D. Roger</strong>
+</blockquote>
+
 <!--
 **sunnygohub/sunnygohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
