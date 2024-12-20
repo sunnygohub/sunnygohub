@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <blockquote align="right">
-"My code? If you want it, you can use it! Go find it!  
-I left everything Golang has to offer in this repository."
+“My code? If you want it, you can use it! Go find it!  
+I've left everything I know in this repository.”
 <br>
 <strong>— Gopher D. Roger</strong>
 </blockquote>
